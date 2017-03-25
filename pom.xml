@@ -22,6 +22,7 @@
 
     <modules>
         <module>example</module>
+        <module>repositories</module>
         <module>util</module>
     </modules>
 
