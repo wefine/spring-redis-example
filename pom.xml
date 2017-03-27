@@ -23,6 +23,7 @@
     <modules>
         <module>example</module>
         <module>repositories</module>
+        <module>reactive</module>
         <module>util</module>
     </modules>
 
